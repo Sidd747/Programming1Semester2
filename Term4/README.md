@@ -1,3 +1,3 @@
-#Programming 1 Semester 2 Java Project Game
+#Programming 1 Semester 2 Java Project
 
-Mystery
+Mystery Game
