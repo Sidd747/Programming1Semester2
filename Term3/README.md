@@ -4,3 +4,7 @@ Projects included:
 * ShapeTester application
 * Inheritance application
 * 99Bottles application
+* PigLatin application
+* DateAndTime application
+* ThoughtQuestions application
+
